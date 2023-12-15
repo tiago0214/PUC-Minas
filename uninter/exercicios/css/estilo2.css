@@ -1,0 +1,13 @@
+.imagem{
+    background: url("https://cdn.awsli.com.br/600x700/175/175683/produto/5294021/8befb43fe5.jpg") no-repeat;
+    height: 200px;
+    width: 200px;
+    display: block;
+    background-size: contain;
+}
+.imagem:hover{
+    background-position: 0px 50px;
+}
+.imagem:active{
+    background-position: 50px 50px ;
+}
